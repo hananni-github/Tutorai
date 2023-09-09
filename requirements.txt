@@ -1,0 +1,6 @@
+gtts
+streamlit 
+openai
+chromadb
+tiktoken
+langchain
